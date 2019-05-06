@@ -22,4 +22,5 @@ backtracking:
     basic backtracking problem + checking if nums[i] and nums[i-1] is equal and just ignore it.
     
 93. Restore IP addr:
-    1
+    check if the ip starts with 0 and length larger than 1. If it does, ignore this ip.
+    If count is bigger 4, which means that this ip is complete, add this ip address and return.
