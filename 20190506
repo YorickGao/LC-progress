@@ -1,0 +1,17 @@
+backtracking problem
+
+131. Palindrome Partitioning:
+     DP + backtracking solution:
+     use dp to determie if a substring is palindrome.
+     
+     pure backtracking solution:
+     use isPalindrome function to check if a string is palindrome.
+     
+140. Word break II:
+     Caution: TLE
+
+
+TrieNode:
+
+211. Add and Search Word:
+     A data structure called TrieNode to store its children and descendants.
