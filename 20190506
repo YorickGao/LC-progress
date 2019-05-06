@@ -15,3 +15,6 @@ TrieNode:
 
 211. Add and Search Word:
      A data structure called TrieNode to store its children and descendants.
+
+212. Word search II:
+     store string array into a trienode structure, then iterate char[][] board to search word.
