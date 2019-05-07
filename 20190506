@@ -14,7 +14,10 @@ backtracking problem
      easy-pass
 
 306. Additive number:
-     using a for loop to generate two number, pass them into isAdditive function. Then recursively call isAdditive fucntion until the index reaches the end.
+     using a for loop to generate two number, pass them into isAdditive function. Then recursively call isAdditive fucntion
+     until the index reaches the end.
+     Primitive type cannot use functions like .euqals, .toString. It should be tramsform to reference type using type 
+     conversion (e.g. (Long)sum ).
 
 TrieNode:
 
@@ -23,3 +26,8 @@ TrieNode:
 
 212. Word search II:
      store string array into a trienode structure, then iterate char[][] board to search word.
+
+DP:
+
+357. Count numbers with unique digits:
+     noted that add previous unique numbers.
