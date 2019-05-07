@@ -18,6 +18,9 @@ backtracking problem
      until the index reaches the end.
      Primitive type cannot use functions like .euqals, .toString. It should be tramsform to reference type using type 
      conversion (e.g. (Long)sum ).
+     
+401. Binary watch:
+     use two array to store decimal number converted from binary number.
 
 TrieNode:
 
