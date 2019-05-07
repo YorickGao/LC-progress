@@ -1,0 +1,25 @@
+Binary search:
+
+29. Divide two integers:
+    noted that the big number input. Using long type to store input.
+    Binary search idea can reduce the time complexity to O(logn).
+    
+33. Search in roted search array:
+    Four contitions, first two are normal binary search. The reminder to solve unsorted array. We divide unsorted array into
+    two parts. We can first (1)find out which segment is ordered (just judge the endpoint), then see if the target is not in 
+    this segment, and if it is, then discard the other half and do normal binary search in this part. (2)If not, then discard 
+    this part. Using the while loop that check (1) until we find the result.
+    
+    second solution is using bias: https://leetcode.windliang.cc/leetCode-33-Search-in-Rotated-Sorted-Array.html
+    
+34. Find first and last position of an Element in a sorted array:
+    Two iteration to find start and end point.
+    
+35. Search insert position:
+    easy pass
+    
+50. Pow(x,n):
+    noted the negative exponents and n to the power of -31.
+    
+74. Search a 2D Matrix:
+    
