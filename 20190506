@@ -10,6 +10,11 @@ backtracking problem
 140. Word break II:
      Caution: TLE
 
+216. Combination sum III:
+     easy-pass
+
+306. Additive number:
+     using a for loop to generate two number, pass them into isAdditive function. Then recursively call isAdditive fucntion until the index reaches the end.
 
 TrieNode:
 
