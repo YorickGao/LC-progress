@@ -1,5 +1,8 @@
 Binary search:
 
+Note: In a while(low < high) loop, we should prevent to use low = mid, because (low+high)/2 equals low when low is even.
+      It would cause infinite loop. Instead, use low = mid + 1 and at the end of the loop just return low.
+
 29. Divide two integers:
     noted that the big number input. Using long type to store input.
     Binary search idea can reduce the time complexity to O(logn).
@@ -16,10 +19,23 @@ Binary search:
     Two iteration to find start and end point.
     
 35. Search insert position:
-    easy pass
+    easy pass.
     
 50. Pow(x,n):
     noted the negative exponents and n to the power of -31.
     
 74. Search a 2D Matrix:
+    You'd better treat this matrix as a sorted array and matrix[i][j] = array[i * matrix.length + j].
+
+81. Search in Rotated Sorted Array II:
+    Basically same as leetcode 33, but make sure use a while loop inside the outer while loop to make nums[low] > nums[high].
     
+153. Find Minimum in Rotated Sorted Array:
+     easy pass.
+     
+162. Find Peak Element:
+     If num[i] < num[i+1], then num[i+1...n-1] must contains a peak
+     If num[i] > num[i+1], then num[0...i] must contains a peak
+     (n is num.length)
+ 
+ 
