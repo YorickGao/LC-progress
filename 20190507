@@ -38,4 +38,7 @@ Note: In a while(low < high) loop, we should prevent to use low = mid, because (
      If num[i] > num[i+1], then num[0...i] must contains a peak
      (n is num.length)
  
- 
+167. Two Sum II - Input array is sorted:
+     1) Two pointers: O(n)
+     2) Binary Search: O(nlogn)
+     3) Binary search + two pointers: O(n) but average is O(logn)
