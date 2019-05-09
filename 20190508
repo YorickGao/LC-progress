@@ -34,3 +34,10 @@ Binary search
 
 275. H-Index II:
      Simple binary search. 
+
+278. First bad version:
+     easy pass.
+
+287. Find the Duplicate Number:
+     1) O(nlogn) binary search: every iteration a for loop will be used to calculate the number of element less than mid.
+     2) O(n) use a fast ans a slow pointer to solve this problem like solving cycle problems.
