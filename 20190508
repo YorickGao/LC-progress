@@ -1,0 +1,36 @@
+Binary search
+
+209. Minimum Size Subarray Sum:
+     1) O(n) solution: using a start index and an end index to maintatin a window ans iterate the array then get the minimun
+        size of this window. Notice corner case that the input array has no element should return 0 instead of 
+        Integer.MAX_VALUE.
+     
+     2) O(nlogn) solution: maintain a sum array to allow binary search function work. In caller function use a for loop to 
+        iterate the nums[] and for each loop, call the binary search funtion to search the end index and return. This method
+        costs O(n) * O(logn).
+        
+222. Count Complete Tree Nodes:
+     Contains bit manipulation.
+
+     O((logn)^2) time complexity: The height of a tree can be found by just going left. Let a single node tree have height 0. 
+     Find the height h of the whole tree. If the whole tree is empty, i.e., has height -1, there are 0 nodes. Otherwise check
+     whether the height of the right subtree is just one less than that of the whole tree, meaning left and right subtree 
+     have the same height.
+     
+     1)If yes, then the last node on the last tree row is in the right subtree and the left subtree is a full tree of height 
+       h-1. So we take the 2^h-1 nodes of the left subtree plus the 1 root node plus recursively the number of nodes in the 
+       right subtree.
+       
+     2)If no, then the last node on the last tree row is in the left subtree and the right subtree is a full tree of height 
+       h-2. So we take the 2^(h-1)-1 nodes of the right subtree plus the 1 root node plus recursively the number of nodes in 
+       the left subtree.
+       
+230. Kth Smallest Element in a BST:
+     1) O(n) in-order traversing using a stack (iterative) or global argument counter (recursive).
+     2) O(nlogn) or O(n) (?) count left and right subtree's nodes
+
+240. Search a 2D Matrix II (not use binary search):
+     Should start at top right corner.
+
+275. H-Index II:
+     Simple binary search. 
