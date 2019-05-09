@@ -1,0 +1,10 @@
+Binary Search
+
+300. Longest Increasing Subsequence:
+     Arrays.fill(int[] arr, int val) can fill the array with a certain value.
+     
+     1) O(n^2) DP solution:
+     double while loop to update the LIS until dp[i] and return max value in dp[].
+     
+     2) O(nlogn) binary search solution:
+     
