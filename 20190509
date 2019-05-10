@@ -28,3 +28,9 @@ Binary Search
 
 374. Guess Number Higher or Lower:
      easy pass.
+
+378. Kth Smallest Element in a Sorted Matrix:
+     Imagine how to do a median selection. Change your stereotype and use range to find the kth number. Regard matrix as a
+     long partial unsorted array(since the top left ans right bottom elments are surely sorted). Then calculate a mid as a
+     pivot to check how many elements are smaller than mid. Following steps are same as binary search.
+     
