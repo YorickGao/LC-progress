@@ -7,4 +7,22 @@ Binary Search
      double while loop to update the LIS until dp[i] and return max value in dp[].
      
      2) O(nlogn) binary search solution:
+     https://leetcode.com/problems/longest-increasing-subsequence/discuss/74824/
+     JavaPython-Binary-search-O(nlogn)-time-with-explanation
+
+315. Count of Smaller Numbers After Self：
+     Arrays.asList() convert an array to arraylist.
      
+     1) O(n^2) solution: same as DP solution in No.300.
+     2) O(nlogn) solution: maintain a sorted array. For each iteration, find the insert position of nums[i] in the sorted
+     array, then insert the nums[i] into the sorted array.
+     
+349. Intersection of Two Arrays:
+     easy pass.
+
+350. Intersection of Two Arrays II:
+     HashMap. Notice the follow up question.
+     
+367. Valid Perfect Square:
+     easy pass.
+
