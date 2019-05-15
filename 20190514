@@ -1,0 +1,39 @@
+Dynamic Programming
+
+32. Longest Valid Parentheses:
+    DP: use an array, dp[i] stands for the longest valid parentheses end with i.
+    Stack: only update the result (max) when we find a "pair". If we find a pair. We throw this pair away and see how big
+    the gap is between current and previous invalid.
+    
+53. Maximum Subarray:
+    if dp[i-1]>0, add it to dp[i]. Otherwise just ignore it.
+   
+62. Unique Paths:
+    easy pass. Noted that the space complexity could be modified to O(n).
+
+63. Unique Paths II:
+    easy pass. Noted that the space complexity could be modified to O(n).
+    
+64. Minimum Path Sum:
+    easy pass, space complixity O(n).
+    
+70. Climbing Stairs:
+    easy pass.
+
+72. Edit Distance:
+    Using 2D array. if charAt(i) != charAt(j), dp[i][j] is the minimum of dp[i-1][j-1], dp[i-1][j] and dp[i][j-1] plus 1.
+    Noted that these three value has different meaning (replace charAt(i) and charAt(j)/delete charAt(i)/delete charAt(j).
+
+85. Maximal Rectangle:
+    Awesome explanation can be found at:
+    https://www.youtube.com/watch?v=g8bSdXCG-lA
+
+96. Unique Binary Search Trees:
+    easy pass.
+
+
+Stack
+
+84. Largest Rectangle in Histogram:
+    https://www.youtube.com/watch?v=ZmnqCZp9bBs&t=671s
+    
