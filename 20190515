@@ -1,0 +1,7 @@
+Ddynamic Programming
+
+91. Decode Ways:
+    two arguments to store the valueOf(s.substring(i-2,i)) and valueOf(s.substring(i-1,i))
+    
+115. Distinct Subsequences:
+     2D array.
