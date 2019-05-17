@@ -7,3 +7,11 @@ Dynamic Programming
     Y-axis: s2, X-axis: s1.
     compare s1.charAt(j-1) == s3.charAt(i+j-1), s2.charAt(i-1) == s3.charAt(i+j-1).
 
+120. Triangle:
+     Buttom up.
+
+123. Best Time to Buy and Sell Stock III:
+     
+
+198. House Robber:
+     easy pass.
