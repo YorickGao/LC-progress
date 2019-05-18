@@ -1,2 +1,11 @@
 Dynamic Programming
 
+221. Maximal Square:
+     find the minimum of dp[i-1][j-1], dp[i-1][j] and dp[i][j-1].
+     
+264. Ugly Number II:
+     Note that a bottom-up method is more reasonable. Use three pointers to maintain the product of 2, 3 and 5 respectively.
+     
+279. Perfect Squares:
+     Knapsack.
+     
