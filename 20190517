@@ -7,7 +7,8 @@ Dynamic Programming
      wordDict.contains(s.substring(j, i)).
      
 152. Maximum Product Subarray:
-     
+     two variants max and min store the maximum value and minimum value. If nums[i] is negative, swap max and min, then
+     max = max(nums[i], max * nums[i]), min = min(nums[i], min * nums[i]).
 
 
 213. House Robber II:
