@@ -9,3 +9,15 @@ Dynamic Programming
 279. Perfect Squares:
      Knapsack.
      
+300. Longest Increasing Subsequence:
+     New DP solution O(nlogn):
+     https://leetcode.com/problems/longest-increasing-subsequence/discuss/74825/Short-Java-solution-using-DP-O(n-log-n)
+     
+303. Range Sum Query - Immutable:
+     easy pass.
+     
+304. Range Sum Query 2D - Immutable:
+     dp[i][j] indicates the matrix sum of matrix[0][0] to matrix[i][j].
+     
+309. Best Time to Buy and Sell Stock with Cooldown:
+     
