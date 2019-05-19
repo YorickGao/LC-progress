@@ -20,4 +20,7 @@ Dynamic Programming
      dp[i][j] indicates the matrix sum of matrix[0][0] to matrix[i][j].
      
 309. Best Time to Buy and Sell Stock with Cooldown:
-     
+     https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75930/
+     Very-Easy-to-Understand-One-Pass-O(n)-Solution-with-No-Extra-Space
+
+312. Burst Balloons:
