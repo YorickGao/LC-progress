@@ -1,1 +1,11 @@
+Dynamic programming
 
+322. Coin Change:
+     fill dp array up with Integer.MAX_VALUE, which means dp[i] with max integer value is unavailable.
+     
+338. Counting Bits:
+     easy pass.
+     
+343. Integer Break:
+     Just remember 3 can maximize the result.
+     
