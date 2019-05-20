@@ -9,3 +9,9 @@ Dynamic programming
 343. Integer Break:
      Just remember 3 can maximize the result.
      
+368. Largest Divisible Subset:
+     same as LIS to count longest divisible suset's length. Then get the index of the last element of this subset. Top-down
+     to get all of the elements in this subset.
+     
+375. Guess Number Higher or Lower II:
+     https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/84807/Java-commented-DP-solution
