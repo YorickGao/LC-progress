@@ -1,0 +1,18 @@
+Two pointers
+
+19. Remove Nth Node From End of List:
+    easy pass.
+    
+26. Remove Duplicates from Sorted Array:
+    easy pass.
+    
+27. Remove Element:
+    easy pass.
+    
+30. Substring with Concatenation of All Words (HashMap):
+    O(n^2) solution: https://www.youtube.com/watch?v=L6NLra-rZoU
+    O(n) solution: https://leetcode.windliang.cc/leetCode-30-Substring-with-Concatenation-of-All-Words.html
+    
+42. Trapping Rain Water:
+    two pointers at index 0 and index length-1.
+ 
