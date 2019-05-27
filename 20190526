@@ -1,0 +1,21 @@
+Two pointers
+
+3. Longest Substring Without Repeating Characters:
+   keep a hashmap which stores the characters in string as keys and their positions as values, and keep two pointers which
+   define the max substring. move the right pointer to scan through the string , and meanwhile update the hashmap. If the
+   character is already in the hashmap, then move the left pointer to the right of the same character last found.
+   
+11. Container With Most Water:
+    https://leetcode.com/problems/container-with-most-water/discuss/6100/Simple-and-clear-proofexplanation
+    
+15. 3Sum:
+    The idea is to sort an input array and then run through all indices of a possible first element of a triplet. For each
+    possible first element we make a standard bi-directional 2Sum sweep of the remaining part of the array. Also we want to
+    skip equal elements to avoid duplicates in the answer without making a set or smth like that.
+
+16. 3Sum Closest:
+    same as 3Sum.
+    
+18. 4Sum:
+    https://leetcode.com/problems/4sum/discuss/8688/*Java*-a-little-bit-faster-than-other-common-methods-(9ms-beats-95)
+    Arrays.asList() return a fixed size list.
