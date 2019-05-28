@@ -1,0 +1,16 @@
+Two pointers
+
+142. Linked List Cycle II:
+     https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.
+
+234. Palindrome Linked List
+     two pointers fast and slow.
+     
+424. Longest Repeating Character Replacement
+     https://www.cnblogs.com/grandyang/p/5999050.html
+     
+457. Circular Array Loop:
+     https://leetcode.com/problems/circular-array-loop/discuss/94148/Java-SlowFast-Pointer-Solution
+     
+524. Longest Word in Dictionary through Deleting:
+     
