@@ -13,4 +13,9 @@ Two pointers
      https://leetcode.com/problems/circular-array-loop/discuss/94148/Java-SlowFast-Pointer-Solution
      
 524. Longest Word in Dictionary through Deleting:
-     
+     1)sort the dictrionary:
+     Collections.sort(d, (a,b) -> a.length() != b.length() ? -Integer.compare(a.length(), b.length()) :  a.compareTo(b));
+    
+     2)without sorting the dictionary:
+     create a new string 'longest'. and update it when a longer word is found. Noticed that the answer should have the 
+     smallest lexicographical order.
