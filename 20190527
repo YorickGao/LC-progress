@@ -16,3 +16,20 @@ Two pointers
 42. Trapping Rain Water:
     two pointers at index 0 and index length-1.
  
+61. Rotate List:
+    1. Get the length
+    2. Move to the (l-n%l)th node
+    3. Do the rotation
+    
+75. Sort Colors:
+    usign two pointers, move 0 to start, move 2 to end.
+    
+76. Minimum Window Substring:
+    https://www.cnblogs.com/grandyang/p/4340948.html
+    
+80. Remove Duplicates from Sorted Array II:
+    *fast and *slow index start at index 1. *fast increase for every loop, while *slow increase only when nums[fast] is not a 
+    duplicate that appears more than 2 times.
+    
+86. Partition List:
+    two dummy node.
