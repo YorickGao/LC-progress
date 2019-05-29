@@ -1,0 +1,25 @@
+Two pointers
+
+632. Smallest Range:
+     1)sliding window:
+     https://www.cnblogs.com/grandyang/p/7200016.html
+     
+     2)peiority queue:
+     https://www.geeksforgeeks.org/find-smallest-range-containing-elements-from-k-lists/
+     
+713. Subarray Product Less Than K:
+     Notice that each step introduces n new windows, where n is the size of the current window j - i + 1.
+     
+826. Most Profit Assigning Work:
+     1) dp
+     2) two pointers
+     
+838. Push Dominoes:
+     https://leetcode.com/problems/push-dominoes/discuss/132332/C%2B%2BJavaPython-Two-Pointers
+     
+
+
+Array:
+
+821. Shortest Distance to a Character:
+     two pass.
