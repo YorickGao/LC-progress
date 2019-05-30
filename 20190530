@@ -1,0 +1,23 @@
+Two pointers
+
+828. Unique Letter String:
+     
+844. Backspace String Compare:
+     O(n) space string builder solution: easy pass.
+     O(1) space solution:
+        - from back to front
+        - if count > 0 && != #, skip
+        - if count == 0 && different, return false
+        - if #, count++
+        - if one ends, the other count == 0 && has any char return false
+        - else return true
+        
+845. Longest Mountain in Array:
+     two pointers and 3 steps: mountain down(skip invalid index), mountain up(find summit) and mountain down(find 
+     mountain bottom).
+     
+881. Boats to Save People:
+     greedy. Let lightest people shipped with heaviest people.
+     
+904. Fruit Into Baskets:
+     
