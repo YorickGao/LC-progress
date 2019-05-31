@@ -1,0 +1,24 @@
+Two pointers
+
+930. Binary Subarrays With Sum:
+     use an additional array storing number of sum n at index n.
+     https://leetcode.com/problems/binary-subarrays-with-sum/discuss/186683/C%2B%2BJavaPython-Straight-Forward
+     
+977. Squares of a Sorted Array:
+     easy pass.
+
+986. Interval List Intersections:
+     three conditions: 
+     1) A[index a]'s end smaller than B[index b]'s start, just increase index a.
+     2) A[index a]'s start bigger than B[index b]'s end, just increase index b.
+     3) intersect: calculate intersection.
+     
+992. Subarrays with K Different Integers:
+     1) result = getMostk(k) - getMostK(k - 1).
+     https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/234482/JavaC%2B%2BPython-Sliding-Window-with-Video
+     
+     2) prefixed sliding window:
+     https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/235235/C%2B%2BJava-with-picture-prefixed-sliding-window
+     
+1004. Max Consecutive Ones III:
+      
