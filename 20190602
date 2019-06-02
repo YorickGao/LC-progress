@@ -1,0 +1,21 @@
+Array
+
+56. Merge Intervals
+    easy pass.
+    
+57. Insert Interval
+    there are three conditions: 
+    1) non-overlapping, interval beyond newInterval;
+    2) non-overlapping, interval behind newInterval;
+    3) overlapping.
+    For condition 1, add interval into res and continue; For condition 2, add interval and newInterval into res, then set
+    newInterval to null. For condition 3, update newInterval.
+    
+73. Set Matrix Zeroes
+    https://leetcode.com/problems/set-matrix-zeroes/discuss/26115/JavaPython-O(1)-space-11-lines-solution
+    
+105. Construct Binary Tree from Preorder and Inorder Traversal
+     same as 106.
+
+106. Construct Binary Tree from Inorder and Postorder Traversal
+     https://www.cnblogs.com/grandyang/p/4296193.html
