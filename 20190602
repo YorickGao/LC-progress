@@ -19,3 +19,9 @@ Array
 
 106. Construct Binary Tree from Inorder and Postorder Traversal
      https://www.cnblogs.com/grandyang/p/4296193.html
+
+162. Find Peak Element
+     nums[-1] and nums[n] = -∞
+     
+228. Summary Ranges
+     if nums[left] == nums[right], then res.add(nums[left]). Otherwise res.add(nums[left] -> nums[right]).
