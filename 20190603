@@ -1,0 +1,23 @@
+Array
+
+229. Majority Element II
+     Moore Voting
+      
+238. Product of Array Except Self
+     1) using prefix and sufix
+     The product basically is calculated using the numbers before the current number and the numbers after the current number.
+     Thus, we can scan the array twice. First, we calcuate the running product of the part before the current number. Second,
+     we calculate the running product of the part after the current number through scanning from the end of the array.
+     
+283. Move Zeroes
+     two pointers: one for pointing at non-zero number's index, one for iterating the array.
+     
+289. Game of Life
+     use two bits to represent current state and next state respectively.
+     
+380. Insert Delete GetRandom O(1)
+     map store value and its position. 
+     nextInt can get a pseudorandom value.
+
+381. Insert Delete GetRandom O(1) - Duplicates allowed
+     use LinkedHashSet.
