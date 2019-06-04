@@ -20,4 +20,21 @@ Array
      nextInt can get a pseudorandom value.
 
 381. Insert Delete GetRandom O(1) - Duplicates allowed
-     use LinkedHashSet.
+     use LinkedHashSet to store value's position in the list.
+
+414. Third Maximum Number
+     use priority queue. Notice that in this case, the priority queue size is not bigger than 4, although insert a element
+     into priority queue. So, the time per insertion is O(log4).
+     
+442. Find All Duplicates in an Array
+     when find a number i, flip the number at position i-1 to negative. 
+     if the number at position i-1 is already negative, i is the number that occurs twice.
+     
+485. Max Consecutive Ones
+     easy pass.
+
+495. Teemo Attacking
+     make sure to calculate end - start outside the for loop, before returning.
+     
+509. Fibonacci Number
+     easy pass.
