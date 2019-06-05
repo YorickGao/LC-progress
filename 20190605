@@ -25,4 +25,25 @@ Array
         nums[i] = nums[i-1].
         
 667. Beautiful Arrangement II
+     k = 1
+     {1, 2, 3, 4, 5, 6} OR {6, 5, 4, 3, 2, 1}.
+     For k = 2
+     {1, 6, 5, 4, 3, 2} OR {6, 1, 2, 3, 4, 5}.
+     For k = 3
+     {1, 6, 2, 3, 4, 5} OR {6, 1, 5, 4, 3, 2}.
+     
+     Notice that each time we want to increase k, we reverse the list again and again from list of size n - 1 to n - 2
+     to n - 3 to.....
+
+670. Maximum Swap
+     https://leetcode.com/problems/maximum-swap/discuss/107068/Java-simple-solution-O(n)-time
+
+674. Longest Continuous Increasing Subsequence
+     easy pass.
+     Notice that set count to be 1, not 0.
+
+695. Max Area of Island
+     DFS
+     
+697. Degree of an Array
      
