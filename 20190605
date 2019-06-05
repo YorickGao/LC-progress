@@ -1,0 +1,28 @@
+Array
+
+621. Task Scheduler
+     sort the frequency array. the result is max(array.length, (c[25] - 1) * (n + 1) + 25 - i).
+     e.g.
+     Frame: "AXXXAXXXAXXXA"
+     insert 'B': "ABXXABXXABXXA" <--- 'B' has higher frequency than the other characters, insert it first.
+     insert 'E': "ABEXABEXABXXA"
+     insert 'F': "ABEFABEXABFXA" <--- each time try to fill the k-1 gaps as full or evenly as possible.
+     insert 'G': "ABEFABEGABFGA"
+     
+628. Maximum Product of Three Numbers
+     use max1, max2, max3, min1 and min2. return max(min1 * min2 * max1, max1 * max2 * max3).
+     
+643. Maximum Average Subarray I
+     easy pass.
+     
+661. Image Smoother
+     easy pass.
+     
+665. Non-decreasing Array
+     if(i-2<0 || nums[i-2] <= nums[i])
+        nums[i-1] = nums[i].
+     else 
+        nums[i] = nums[i-1].
+        
+667. Beautiful Arrangement II
+     
