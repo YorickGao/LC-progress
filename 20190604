@@ -1,0 +1,33 @@
+Array
+
+560. Subarray Sum Equals K
+     1) O(n^2)
+     num[i] indicates the sum at index i.
+     
+     2) O(n)
+     https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-%2B-HashMap
+     
+561. Array Partition I
+     easy pass.
+     
+565. Array Nesting
+     Since every number is distinct, there aren't any two elements pointed at the same index. So, set visited element to be -1
+     is safe.
+     
+566. Reshape the Matrix
+     easy pass.
+     
+581. Shortest Unsorted Continuous Subarray
+     1) sorting the array
+     2) two pass: find a min after the array is unsorted, and a max before the array is sorted. Second pass is finding the
+     position of max and min.
+     3) one pass: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/discuss/103066/
+     Ideas-behind-the-O(n)-two-pass-and-one-pass-solutions
+     
+605. Can Place Flowers
+     easy pass.
+     
+611. Valid Triangle Number
+      once we sort the input array nums, the key to solve the problem is that given nums[k], count the combination of
+      i and j where nums[i] + nums[j] > nums[k] (so that they can form a triangle). If nums[i] + nums[j] is larger than
+      nums[k], we know that there will be j - i combination.
