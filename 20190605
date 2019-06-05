@@ -37,6 +37,8 @@ Array
 
 670. Maximum Swap
      https://leetcode.com/problems/maximum-swap/discuss/107068/Java-simple-solution-O(n)-time
+     Integer.valueOf(new String(digits)): new String(digits) creates a new string based on char array digits. valueOf returns
+     an Integer object holding the value of the specified String.
 
 674. Longest Continuous Increasing Subsequence
      easy pass.
