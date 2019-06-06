@@ -44,8 +44,13 @@ Array
      easy pass.
      Notice that set count to be 1, not 0.
 
+689. Maximum Sum of 3 Non-Overlapping Subarrays
+     https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/discuss/108231/
+     C%2B%2BJava-DP-with-explanation-O(n)
+
 695. Max Area of Island
      DFS
      
 697. Degree of an Array
-     
+     use map to count every element and its left bound and right bound.
+     map.values() returns a Collection view of the values contained in this map.
