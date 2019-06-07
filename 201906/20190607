@@ -7,9 +7,15 @@ Array
      same idea as 769 plus a limit variable.
      
 775. Global and Local Inversions
-     All local inversions are global inversions.
-     If the number of global inversions is equal to the number of local inversions,
-     it means that all global inversions in permutations are local inversions.
+     1) All local inversions are global inversions.
+        If the number of global inversions is equal to the number of local inversions,
+        it means that all global inversions in permutations are local inversions.
      
-782. Transform to Chessboard
+792. Number of Matching Subsequences
+     1) O(n * w * s) solution: easy pass.
+     2) https://leetcode.com/problems/number-of-matching-subsequences/discuss/117634/
+        Efficient-and-simple-go-through-words-in-parallel-with-explanation
      
+795. Number of Subarrays with Bounded Maximum
+     1) O(n^2) branch & bound
+     2) O(n): https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/discuss/117595/Short-Java-O(n)-Solution
