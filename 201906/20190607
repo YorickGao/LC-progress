@@ -1,0 +1,15 @@
+Array
+
+769. Max Chunks To Make Sorted
+     https://leetcode.com/problems/max-chunks-to-make-sorted/discuss/113528/Simple-Java-O(n)-Solution-with-detailed-explanation
+     
+768. Max Chunks To Make Sorted II
+     same idea as 769 plus a limit variable.
+     
+775. Global and Local Inversions
+     All local inversions are global inversions.
+     If the number of global inversions is equal to the number of local inversions,
+     it means that all global inversions in permutations are local inversions.
+     
+782. Transform to Chessboard
+     
