@@ -8,4 +8,28 @@ Array
      easy pass.
      
 718. Maximum Length of Repeated Subarray
+     same as longest common substring: https://www.youtube.com/watch?v=BysNXJHzCEs
+     Tips: for a two dimensional DP solution, if you need create a dp[length m + 1][length n + 1], just padding the outter
+     board using if(i == 0 || j == 0) dp[i][j] == 0 inside the double for loop.
+
+719. Find K-th Smallest Pair Distance
+     1) naive solution: store all of distance into an array. Then add them together until reach k.
+     2) 
+
+724. Find Pivot Index
+     same idea as 689. Maximum Sum of 3 Non-Overlapping Subarrays
+     Noted that if there is no element on the left/right, the sum until now still equals to 0.
+
+729. My Calendar I
+     use TreeMap. lowerKey(K key) returns the greatest key strictly less than the given key, or null if there is no such key.
+     
+746. Min Cost Climbing Stairs
+     DP easy pass.
+     
+747. Largest Number At Least Twice of Others
+     two pass: too easy
+     one pass: two variables max and second storing max and second max value respectively.
+     
+766. Toeplitz Matrix
+     using queue to store data when only one row are allowed to be loaded.
      
