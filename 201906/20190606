@@ -14,7 +14,7 @@ Array
 
 719. Find K-th Smallest Pair Distance
      1) naive solution: store all of distance into an array. Then add them together until reach k.
-     2) 
+     2) O(nlogn) binary search solution: https://www.cnblogs.com/grandyang/p/8627783.html
 
 724. Find Pivot Index
      same idea as 689. Maximum Sum of 3 Non-Overlapping Subarrays
