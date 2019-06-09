@@ -1,4 +1,30 @@
 Array
 
 825. Friends Of Appropriate Ages
+     Three conditions could be merged to one: B is in range ( 0.5 * A + 7, A ].
+     https://leetcode.com/problems/friends-of-appropriate-ages/discuss/127341/
+     10ms-concise-Java-solution-O(n)-time-and-O(1)-space
+
+830. Positions of Large Groups
+     easy pass. Note the corner case "aaa". You should allow right <= S.length() in the while loop.
+     
+832. Flipping an Image
+     easy pass.
+     invert pixel only when row[i] equals row[n - i - 1].
+     0 ^ 0 = 0;
+     1 ^ 0 = 1;
+     0 ^ 1 = 1;
+     1 ^ 1 = 0;
+     
+835. Image Overlap
+     https://www.cnblogs.com/grandyang/p/10355589.html
+     
+840. Magic Squares In Grid
+     O(n^2) straightforawrd solution to check validity of a given 3*3 grid. Noted that if center of the grid isn't 5, it
+     shouldn't be a valid grid.
+     
+849. Maximize Distance to Closest Person
+     in case of seats[0] == 0 or seats[len - 1] == 0, use two pointers.
+     
+867. Transpose Matrix
      
