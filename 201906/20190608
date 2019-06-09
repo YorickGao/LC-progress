@@ -27,4 +27,7 @@ Array
      in case of seats[0] == 0 or seats[len - 1] == 0, use two pointers.
      
 867. Transpose Matrix
+     easy pass.
+
+870. Advantage Shuffle
      
