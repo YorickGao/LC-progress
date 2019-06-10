@@ -1,4 +1,11 @@
 Array
 
 870. Advantage Shuffle
-     
+     use priority queue to implement a max heap that stores value inside of array B.
+     if max value in A cannot cover B, just use a least value instead.
+
+873. Length of Longest Fibonacci Subsequence
+     https://www.cnblogs.com/grandyang/p/10781190.html
+
+888. Fair Candy Swap
+     calculate avg sum of A dn B. then use hashset to store value of A.
