@@ -1,0 +1,18 @@
+Array 
+
+896. Monotonic Array
+     easy pass.
+     
+900. RLE Iterator
+     queue will cause TLE. So, use array instead.
+
+905. Sort Array By Parity
+     easy pass.
+     
+907. Sum of Subarray Minimums
+     https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/
+     stack-solution-with-very-detailed-explanation-step-by-step
+     
+914. X of a Kind in a Deck of Cards
+     use GCD
+     
