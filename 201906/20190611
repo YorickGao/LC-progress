@@ -1,0 +1,29 @@
+Array
+
+915. Partition Array into Disjoint Intervals
+     construct a min[] array to store min value from right to left.
+
+918. Maximum Sum Circular Subarray
+     https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/178422/One-Pass
+     
+922. Sort Array By Parity II
+     easy pass.
+     
+926. Flip String to Monotone Increasing
+     1) count prefix 0 and suffix 1.
+     2) DP.
+     https://blog.csdn.net/fuxuemingzhu/article/details/83247054
+     
+941. Valid Mountain Array
+     easy pass. two pointers.
+     
+945. Minimum Increment to Make Array Unique
+     1) TreeMap, O(nlogn).
+     Element is only allowed to increase, so some gap between elements. Use max to update expectation number.
+     2) sort and calculate.
+
+950. Reveal Cards In Increasing Order
+     simulation.
+     
+954. Array of Doubled Pairs
+     
