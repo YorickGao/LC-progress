@@ -1,0 +1,14 @@
+Array
+
+962. Maximum Width Ramp
+     https://leetcode.com/problems/maximum-width-ramp/discuss/208348/JavaC%2B%2BPython-O(N)-Using-Stack
+     
+969. Pancake Sorting
+     two step:
+     1) find the largest element at index i and reverse i+1 elements.
+     2) reverse A[0] (the largest) to its position A[largest - 1].
+     for each step, adding record to result list.
+     
+974. Subarray Sums Divisible by K
+     if sum[0, i] % K == sum[0, j] % K, sum[i + 1, j] is divisible by by K.
+     
