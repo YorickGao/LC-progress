@@ -1,0 +1,11 @@
+Array
+
+978. Longest Turbulent Subarray
+     https://leetcode.com/problems/longest-turbulent-subarray/discuss/221935/Java-O(N)-time-O(1)-space
+     
+999. Available Captures for Rook
+     easy pass.
+     
+1002. Find Common Characters
+      for every string, build a char array for it.
+      
