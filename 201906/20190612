@@ -12,3 +12,8 @@ Array
 974. Subarray Sums Divisible by K
      if sum[0, i] % K == sum[0, j] % K, sum[i + 1, j] is divisible by by K.
      
+985. Sum of Even Numbers After Queries
+     easy pass.
+     
+989. Add to Array-Form of Integer
+     add sum and K will cause overflow. Adding the res to list digit by digit.
