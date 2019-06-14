@@ -9,3 +9,8 @@ Array
 1002. Find Common Characters
       for every string, build a char array for it.
       
+1007. Minimum Domino Rotations For Equal Row
+      https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas
+      
+1010. Pairs of Songs With Total Durations Divisible by 60
+      using array is faster than map.
