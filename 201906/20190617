@@ -1,0 +1,43 @@
+Stack 
+
+71. Simplify Path
+    https://leetcode.com/problems/simplify-path/discuss/25686/Java-10-lines-solution-with-stack
+    
+84. Largest Rectangle in Histogram
+    https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/29018/AC-clean-Java-solution-using-stack
+    
+103. Binary Tree Zigzag Level Order Traversal
+     BFS.
+     
+150. Evaluate Reverse Polish Notation
+     easy pass.
+     
+224. Basic Calculator    
+     Five conditions:
+     1) digit: it should be one digit from the current number
+     2) '+': number is over, we can add the previous number and start a new number
+     3) '-': same as above
+     4) '(': push the previous result and the sign into the stack, set result to 0, just calculate the new result within
+     the parenthesis.
+     5) ')': pop out the top two numbers from stack, first one is the sign before this pair of parenthesis, second is the
+     temporary result before this pair of parenthesis. We add them together.
+     
+316. Remove Duplicate Letters
+     https://leetcode.com/problems/remove-duplicate-letters/discuss/76762/Java-O(n)-solution-using-stack-with-detail-explanation
+     
+331. Verify Preorder Serialization of a Binary Tree
+     when you iterate through the preorder traversal string, for each char:
+     case 1: you see a number c, means you begin to expand a new tree rooted with c, you push it to stack
+     case 2.1: you see a #, while top of stack is a number, you know this # is a left null child, put it there as a mark
+        for next coming node k to know it is being the right child.
+     case 2.2: you see a #, while top of stack is #, you know you meet this # as right null child, you now cancel the sub
+        tree (rooted as t, for example) with these two-# children. But wait, after the cancellation, you continue to check top
+        of stack is whether # or a number:
+     ---- if a number, say u, you know you just cancelled a node t which is left child of u. You need to leave a # mark to
+          the top of stack. So that the next node know it is a right child.
+     ---- if a #, you know you just cancelled a tree whose root, t, is the right child of u. So you continue to cancel sub
+          tree of u, and the process goes on and on.
+
+341. Flatten Nested List Iterator
+     https://leetcode.com/problems/flatten-nested-list-iterator/discuss/80147/
+     Simple-Java-solution-using-a-stack-with-explanation
