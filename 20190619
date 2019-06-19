@@ -1,0 +1,13 @@
+Stack
+
+636. Exclusive Time of Functions
+     split logs, use a prevTime indicating start time of current job or part job. Storing job id into a stack.
+     
+682. Baseball Game
+     easy pass.
+     
+735. Asteroid Collision
+     stack.
+     
+739. Daily Temperatures
+     monotonous stack
