@@ -1,0 +1,15 @@
+Stack
+ 
+394. Decode String
+     1.使用两个栈，countStack存子串的重复次数，resStack存中间结果
+     2.读取完一个数字，把数量入countStack栈
+     3.读取到[时，把n[前面的结果计算出来并入resStack栈
+     4.读取到]时，取出最近一次n[res]前面的中间计算结果，也就是resStack的栈顶，再append n次res，n为countStack的栈顶，res为最近一次[]中间的子串
+     5.其他情况，将字符追加到res末尾
+     
+402. Remove K Digits
+     https://leetcode.com/problems/remove-k-digits/discuss/88678/Two-algorithms-with-detailed-explaination
+
+456. 132 Pattern
+     https://leetcode.com/problems/132-pattern/discuss/94089/
+     Java-solutions-from-O(n3)-to-O(n)-for-%22132%22-pattern-(updated-with-one-pass-slution)
