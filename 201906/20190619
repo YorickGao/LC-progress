@@ -21,3 +21,5 @@ Stack
 880. Decoded String at Index
      https://www.cnblogs.com/grandyang/p/10847233.html
      
+895. Maximum Frequency Stack
+     using a freqency map and a map of stack. 
