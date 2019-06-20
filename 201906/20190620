@@ -1,0 +1,14 @@
+Stack
+
+901. Online Stock Span
+     monotonous stack.
+     
+921. Minimum Add to Make Parentheses Valid
+     easy pass. Since the 'stack' only contains '(', we can just use a variable to simulate the stack, indicating how 
+     many '(' in it.
+     
+946. Validate Stack Sequences
+     simulate push and pop.
+     
+975. Odd Even Jump
+     https://leetcode.com/problems/odd-even-jump/discuss/217981/JavaC%2B%2BPython-DP-idea-Using-TreeMap-or-Stack
