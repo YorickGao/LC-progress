@@ -12,3 +12,15 @@ Stack
      
 975. Odd Even Jump
      https://leetcode.com/problems/odd-even-jump/discuss/217981/JavaC%2B%2BPython-DP-idea-Using-TreeMap-or-Stack
+
+1003. Check If Word Is Valid After Substitutions
+      easy pass.
+      
+1019. Next Greater Node In Linked List
+      easy pass. Use array instead of stack for saving time.
+      
+1021. Remove Outermost Parentheses
+      use a variable to count openning/closing parentheses.
+      
+1047. Remove All Adjacent Duplicates In String
+      easy pass.
