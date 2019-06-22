@@ -1,0 +1,16 @@
+Tree
+
+114. Flatten Binary Tree to Linked List
+     Recursive & iterative: https://www.cnblogs.com/grandyang/p/4293853.html
+     
+116. Populating Next Right Pointers in Each Node
+     BFS using queue. If index is at the end element of current level, set the element's next to null.
+     
+117. Populating Next Right Pointers in Each Node II
+     same as No.116, but use constant space.
+     
+129. Sum Root to Leaf Numbers
+     recursive 
+     
+145. Binary Tree Postorder Traversal
+     reverse of preorder traversal.
