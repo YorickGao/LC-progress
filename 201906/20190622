@@ -1,0 +1,18 @@
+Tree
+
+199. Binary Tree Right Side View
+     BFS, only add the last element.
+     DFS, check if result list's size equals current depth and add right node first.
+     
+297. Serialize and Deserialize Binary Tree
+     Serialize: use queue to buil result string.
+     Deserialize: reversion of serialize.
+     
+337. House Robber III
+     https://www.youtube.com/watch?v=-i2BFAU25Zk
+
+429. N-ary Tree Level Order Traversal
+     easy pass.
+     
+449. Serialize and Deserialize BST
+     same as No.297.
