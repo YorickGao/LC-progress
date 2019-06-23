@@ -1,0 +1,29 @@
+Tree
+
+530. Minimum Absolute Difference in BST
+     easy pass.
+     
+538. Convert BST to Greater Tree
+     easy pass. Reversion of inorder traversal.
+     
+543. Diameter of Binary Tree
+     easy pass.
+     
+559. Maximum Depth of N-ary Tree
+     easy pass dfs.
+     
+563. Binary Tree Tilt
+     easy pass.
+     
+572. Subtree of Another Tree
+     https://leetcode.com/problems/subtree-of-another-tree/discuss/102724/Java-Solution-tree-traversal
+     
+589. N-ary Tree Preorder Traversal
+     easy pass. 
+     iteratively push children node into stack from form right to left.
+     
+590. N-ary Tree Postorder Traversal
+     iteratively push children node into stack from form left to right.
+     
+606. Construct String from Binary Tree
+     
