@@ -16,3 +16,12 @@ Tree
      
 449. Serialize and Deserialize BST
      same as No.297.
+
+450. Delete Node in a BST
+     https://leetcode.com/problems/delete-node-in-a-bst/discuss/93296/Recursive-Easy-to-Understand-Java-Solution
+     
+508. Most Frequent Subtree Sum
+     HashMap storing the count of certain sum, return the sum with max frequency.
+     
+513. Find Bottom Left Tree Value
+     Doing bfs right-to-left that can find the left most node at the last level.
