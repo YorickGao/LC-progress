@@ -26,4 +26,4 @@ Tree
      iteratively push children node into stack from form left to right.
      
 606. Construct String from Binary Tree
-     
+     preorder traversal.
