@@ -20,3 +20,5 @@ Tree
 662. Maximum Width of Binary Tree
      BFS & hashmap (storing position index)
      
+669. Trim a Binary Search Tree
+     recursive
