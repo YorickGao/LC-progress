@@ -1,0 +1,9 @@
+Tree
+
+684. Redundant Connection
+     1) use hashmap.
+     2) use disjointed union. Find out slides under folder: Desktop/books/算法/Disjointed Union.pdf
+     
+685. Redundant Connection II
+     https://leetcode.com/problems/redundant-connection-ii/discuss/108045/C%2B%2BJava-Union-Find-with-explanation-O(n)
+     
