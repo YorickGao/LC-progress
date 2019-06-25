@@ -1,0 +1,22 @@
+Tree
+
+623. Add One Row to Tree
+     BFS
+     
+652. Find Duplicate Subtrees
+     using postorder traversal to get all of serialized subtree and store them into hashmap.
+     
+654. Maximum Binary Tree
+     1. We scan numbers from left to right, build the tree one node by one step;
+     2. We use a stack to keep some (not all) tree nodes and ensure a decreasing order;
+     3. For each number, we keep pop the stack until empty or a bigger number; 
+        The bigger number (if exist, it will be still in stack) is current number's root, and the last popped number
+        (if exist) is current number's left child (temporarily, this relationship may change in the future); 
+        Then we push current number into the stack.
+        
+655. Print Binary Tree
+     Get the height of tree first, maintain left and right pointers to calculate the position of node for a given level.
+     
+662. Maximum Width of Binary Tree
+     BFS & hashmap (storing position index)
+     
