@@ -7,3 +7,5 @@ Tree
 685. Redundant Connection II
      https://leetcode.com/problems/redundant-connection-ii/discuss/108045/C%2B%2BJava-Union-Find-with-explanation-O(n)
      
+687. Longest Univalue Path
+     recursive
