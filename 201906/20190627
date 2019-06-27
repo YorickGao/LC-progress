@@ -12,3 +12,8 @@ Tree
 889. Construct Binary Tree from Preorder and Postorder Traversal
      https://www.youtube.com/watch?v=53aOi0Drp9I
      
+894. All Possible Full Binary Trees
+     use DP (length is N + 1) to store middle results at dp[n] for a given N. In this case, middle result is a couple of
+     full binary trees that have exactly N nodes. And iterate the dp array double looply you can construct full binary tree
+     with more nodes.
+     
