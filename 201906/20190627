@@ -17,3 +17,12 @@ Tree
      full binary trees that have exactly N nodes. And iterate the dp array double looply you can construct full binary tree
      with more nodes.
      
+897. Increasing Order Search Tree
+     Iterative or recursive (faster)
+     Don't forget to set left nodes pointing to null.
+
+919. Complete Binary Tree Inserter
+     we should use list to insert every node in dfs order. (size - 1) / 2 can get a node's parent.
+
+938. Range Sum of BST
+     easy pass.
