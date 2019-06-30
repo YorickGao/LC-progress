@@ -16,4 +16,23 @@ Tree
      https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/221939/C%2B%2B-with-picture-post-order-traversal
      
 993. Cousins in Binary Tree
+     easy pass.
      
+998. Maximum Binary Tree II
+     If root.val > val, recusion on the right.
+     Else, put right subtree on the left of new node TreeNode(val)
+     
+1008. Construct Binary Search Tree from Preorder Traversal
+      Give the function a bound the maximum number it will handle.
+      The left recursion will take the elements smaller than node.val
+      The right recursion will take the remaining elements smaller than bound
+      
+1022. Sum of Root To Leaf Binary Numbers
+      easy pass.
+      
+1026. Maximum Difference Between Node and Ancestor
+      easy pass.
+
+1028. Recover a Tree From Preorder Traversal
+      save the construction path in a stack. In each loop, get the number level of '-' and the value val of node to add.
+      If the size of stack is bigger than the level of node, pop the stack until it's not.
