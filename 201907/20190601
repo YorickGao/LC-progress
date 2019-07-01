@@ -1,0 +1,13 @@
+Array
+
+31. Next Permutation
+    easy pass.
+    
+41. First Missing Positive
+    https://leetcode.com/problems/first-missing-positive/discuss/17214/Java-simple-solution-with-documentation
+    
+55. Jump Game
+    use max variable to store max distance we can go. If index bigger than max, return false.
+    
+45. Jump Game II
+    https://leetcode.com/problems/jump-game-ii/discuss/18014/Concise-O(n)-one-loop-JAVA-solution-based-on-Greedy
