@@ -1,0 +1,10 @@
+Tree
+
+1104. Path In Zigzag Labelled Binary Tree
+      Calculate current depth of the label. Calculate offset (for each depth, values lie from 2^d -> 2^(d+1) -1.
+      Find the real parent based on offset. Repeat until we reach 1
+      
+HashTable
+
+138. Copy List with Random Pointer
+     
