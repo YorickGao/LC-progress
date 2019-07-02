@@ -7,4 +7,8 @@ Tree
 HashTable
 
 138. Copy List with Random Pointer
+     ceate a hashmap to store <old, new> node pairs to save time.
+
+204. Count Primes
+     if an element e is prime, e * 2, e * 3, e * 4... aren't prime.
      
