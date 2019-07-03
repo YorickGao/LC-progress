@@ -1,0 +1,28 @@
+Hash Table
+
+355. Design Twitter
+     OO design, hashmap & priority queue:
+     https://leetcode.com/problems/design-twitter/discuss/82825/Java-OO-Design-with-most-efficient-function-getNewsFeed
+     
+389. Find the Difference
+     easy pass.
+     
+409. Longest Palindrome
+     easy pass. if res == s.length(), res++.
+     
+438. Find All Anagrams in a String
+     sliding window template:
+     https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/
+     Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.
+
+447. Number of Boomerangs
+     double loop calculate all these distances and store in a hashmap. number of pairs is n(n - 1).
+     
+454. 4Sum II
+     O(n^2) calculate A[i] + B[j], and C[i] + D[j] respectively.
+     
+463. Island Perimeter
+     easy pass.
+
+500. Keyboard Row
+     hashmap store every key and its row.
