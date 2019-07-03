@@ -1,0 +1,16 @@
+HashTable
+
+554. Brick Wall
+     using map storing presum length of each row. Find out the max number of rows with the same length.
+     
+575. Distribute Candies
+     easy pass.
+     
+594. Longest Harmonious Subsequence
+     count all the numbers into hashmap.
+
+599. Minimum Index Sum of Two Lists
+     easy pass. Use one hashmap to store info of list1, and iterate list2 to find out min distance.
+     
+609. Find Duplicate File in System
+     
