@@ -26,3 +26,10 @@ Hash Table
 
 500. Keyboard Row
      hashmap store every key and its row.
+     res.toArray(new String[0]) convert list to fixed-size array.
+     
+525. Contiguous Array
+     https://www.cnblogs.com/grandyang/p/6529857.html
+     
+535. Encode and Decode TinyURL
+     use Java build-in hashCode.
