@@ -13,4 +13,7 @@ HashTable
      easy pass. Use one hashmap to store info of list1, and iterate list2 to find out min distance.
      
 609. Find Duplicate File in System
+     HashMap.
      
+645. Set Mismatch
+     hashmap. Smart way: https://leetcode.com/problems/set-mismatch/discuss/105507/Java-O(n)-Time-O(1)-Space
