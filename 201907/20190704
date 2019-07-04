@@ -1,0 +1,21 @@
+HashTable
+
+648. Replace Words
+     Hashset easy.
+     using trie is way faster.
+     
+676. Implement Magic Dictionary
+     https://leetcode.com/problems/implement-magic-dictionary/discuss/107446/Easy-14-lines-Java-solution-HashMap
+     look at the comment down below.
+     
+690. Employee Importance
+     dfs
+
+720. Longest Word in Dictionary
+     sort them lexicographical and in length.
+     
+748. Shortest Completing Word
+     compare every word with licensePlate using helper array storing number of every letter.
+     
+771. Jewels and Stones
+     
