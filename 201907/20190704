@@ -18,4 +18,16 @@ HashTable
      compare every word with licensePlate using helper array storing number of every letter.
      
 771. Jewels and Stones
+     easy pass.
+
+781. Rabbits in Forest
+     https://www.cnblogs.com/grandyang/p/9043761.html
+
+811. Subdomain Visit Count
+     split them from left to right, and put them into hashmap.
+
+884. Uncommon Words from Two Sentences
+     easy pass.
      
+939. Minimum Area Rectangle
+     https://leetcode.com/problems/minimum-area-rectangle/discuss/192025/Java-N2-Hashmap
