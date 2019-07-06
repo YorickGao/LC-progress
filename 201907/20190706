@@ -1,0 +1,21 @@
+HashTable
+
+981. Time Based Key-Value Store
+     Map + TreeMap.
+     
+987. Vertical Order Traversal of a Binary Tree
+     Map + TreeMap + priority queue.
+     noted that treemap's iterator returns the keys in ascending order.
+     
+1048. Longest String Chain
+      Sort the words by word's length. For each word, loop on all possible previous word with 1 letter missing.
+      If we have seen this previous word, update the longest chain for the current word.
+      
+1072. Flip Columns For Maximum Number of Equal Rows
+      https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/discuss/303897/
+      Java-easy-solution-%2B-explanation
+      
+      Arrays.equals(arr1, arr2) checks out if two arrays are identical.
+      
+1078. Occurrences After Bigram
+      
