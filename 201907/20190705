@@ -9,3 +9,10 @@ HashMap
 961. N-Repeated Element in Size 2N Array
      easy pass.
      
+966. Vowel Spellchecker
+     maintaining two maps, one for lower case, one for vowel replacing all "a,e,i,o,u" by wildcard.
+     putIfAbsent(): If the specified key is not already associated with a value (or is mapped to null),
+     associates it with the given value and returns null, else returns the current value.
+     
+970. Powerful Integers
+     easy pass.
