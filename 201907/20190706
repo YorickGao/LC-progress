@@ -18,4 +18,10 @@ HashTable
       Arrays.equals(arr1, arr2) checks out if two arrays are identical.
       
 1078. Occurrences After Bigram
-      
+      easy pass.
+
+
+String
+
+43. Multiply Strings
+    https://leetcode.com/problems/multiply-strings/discuss/17605/Easiest-JAVA-Solution-with-Graph-Explanation
