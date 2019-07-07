@@ -25,3 +25,7 @@ String
 
 43. Multiply Strings
     https://leetcode.com/problems/multiply-strings/discuss/17605/Easiest-JAVA-Solution-with-Graph-Explanation
+
+165. Compare Version Numbers
+     split string into array. 
+     Don't forget to add a '\' sign before regex: string1.split("\\.") can split strings by 'dot'.
