@@ -1,0 +1,48 @@
+String
+
+537. Complex Number Multiplication
+     easy pass.
+     
+539. Minimum Time Difference
+     There is only 24 * 60 = 1440 possible time points. Just create a boolean array, each element stands for if we see that
+     time point or not. Use last and first variables to handle circle time distance.
+
+541. Reverse String II
+     easy pass.
+     
+551. Student Attendance Record I
+     easy pass.
+     s.lastIndexOf("A") check the last index of a given string.
+     s.contains("LLL")) chekc if the string contains a given string.
+     
+553. Optimal Division
+     easy pass but tricky.
+     https://www.cnblogs.com/grandyang/p/6886673.html
+
+556. Next Greater Element III
+     https://leetcode.com/problems/next-greater-element-iii/discuss/101824/Simple-Java-solution-(4ms)-with-explanation.
+
+557. Reverse Words in a String III
+     easy pass.
+
+583. Delete Operation for Two Strings
+     DP LCS. easy pass.
+     
+647. Palindromic Substrings
+     Palindromic template.
+     
+657. Robot Return to Origin
+     easy pass.
+     
+678. Valid Parenthesis String
+     https://leetcode.com/problems/valid-parenthesis-string/discuss/107570/JavaC%2B%2BPython-One-Pass-Count-the-Open-Parenthesis
+
+686. Repeated String Match
+     easy pass.
+     
+696. Count Binary Substrings
+     amazing solution:
+     https://leetcode.com/problems/count-binary-substrings/discuss/108600/Java-O(n)-Time-O(1)-Space
+
+709. To Lower Case
+     easy pass.
