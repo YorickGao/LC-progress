@@ -1,0 +1,33 @@
+String
+
+831. Masking Personal Information
+     easy pass.
+     
+833. Find And Replace in String
+     https://www.cnblogs.com/grandyang/p/10352323.html
+     
+848. Shifting Letters
+     easy pass.
+     
+859. Buddy Strings
+     If A == B, we need swap two same characters. Check is duplicated char in A.
+
+890. Find and Replace Pattern
+     easy pass.
+     
+893. Groups of Special-Equivalent Strings
+     easy pass.
+     Arrays.toString() convert array to string.
+     
+899. Orderly Queue
+     if(k > 1) just sort it and return.
+     https://leetcode.com/problems/orderly-queue/discuss/165878/C%2B%2BJavaPython-Sort-String-or-Rotate-String
+     
+916. Word Subsets
+     iterate array B and count the max occurance of char c, store them into an array. This array can be perform as a filter.
+
+917. Reverse Only Letters
+     setCharAt(index i, char c) can set char c at index i.
+     
+929. Unique Email Addresses
+     easy pass.
