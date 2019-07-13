@@ -1,0 +1,21 @@
+Sort
+
+973. K Closest Points to Origin
+     1) sort
+     2) heap
+     3) quick sort
+     
+1030. Matrix Cells in Distance Order
+      BFS
+      
+1054. Distant Barcodes
+      easy pass.
+      
+DFS
+  
+130. Surrounded Regions
+     easy pass.
+     
+133. Clone Graph
+     DFS recursive
+     BFS queue.
