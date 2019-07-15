@@ -4,4 +4,13 @@ DFS & Topological sort
      https://leetcode.com/problems/course-schedule/discuss/58669/Concise-JAVA-solutions-based-on-BFS-and-DFS-with-explanation
      
 210. Course Schedule II
+     same idea as 207.
+
+417. Pacific Atlantic Water Flow
+     dfs. same as No.130 Surrounded Regions.
      
+430. Flatten a Multilevel Doubly Linked List
+     stack.
+     
+473. Matchsticks to Square
+     https://leetcode.com/problems/matchsticks-to-square/discuss/95729/Java-DFS-Solution-with-Explanation
