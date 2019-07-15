@@ -1,0 +1,9 @@
+DFS
+
+491. Increasing Subsequences
+     building a hash set to prevent duplicates.
+     
+494. Target Sum
+     BFS: easy pass.
+     DP: https://leetcode.com/problems/target-sum/discuss/97335/Short-Java-DP-Solution-with-Explanation
+     
