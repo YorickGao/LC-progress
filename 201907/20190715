@@ -7,3 +7,18 @@ DFS
      BFS: easy pass.
      DP: https://leetcode.com/problems/target-sum/discuss/97335/Short-Java-DP-Solution-with-Explanation
      
+514. Freedom Trail
+     https://leetcode.com/problems/freedom-trail/discuss/98902/Concise-Java-DP-Solution
+     
+529. Minesweeper
+     BFS
+     
+542. 01 Matrix
+     easy pass. botton-up and top down, left-right and righ-left, double loop through the matrx.
+     
+
+547. Friend Circles
+     DFS: https://leetcode.com/problems/friend-circles/discuss/101338/Neat-DFS-java-solution
+     
+638. Shopping Offers
+     DFS
