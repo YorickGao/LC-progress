@@ -1,0 +1,15 @@
+DFS
+
+576. Out of Boundary Paths
+     if we can reach some position in x moves, we can reach all its adjacent positions in x + 1 moves.
+     
+721. Accounts Merge
+     union find:
+     https://leetcode.com/problems/accounts-merge/discuss/109157/JavaC%2B%2B-Union-Find
+     
+733. Flood Fill
+     easy pass.
+     
+743. Network Delay Time
+     Djikstra:
+     https://leetcode.com/problems/network-delay-time/discuss/210698/Java-Djikstrabfs-Concise-and-very-easy-to-understand
