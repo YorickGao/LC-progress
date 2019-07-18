@@ -21,4 +21,15 @@ LinkedList
     easy pass.
     
 143. Reorder List
+     1) find mid node.
+     2) reverse the second half.
+     3) construct new.
+
+328. Odd Even Linked List
+     two pointers.
      
+445. Add Two Numbers II
+     two stack.
+     
+725. Split Linked List in Parts
+     https://leetcode.com/problems/split-linked-list-in-parts/discuss/109296/JavaC%2B%2B-Clean-Code
