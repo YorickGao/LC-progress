@@ -11,3 +11,9 @@ Binary Search
      
 875. Koko Eating Bananas
      binary search.
+
+911. Online Election
+     use two map. one for storing time & leader pair, one for storing person & votes pair.
+     
+1111. Maximum Nesting Depth of Two Valid Parentheses Strings
+      
