@@ -16,4 +16,14 @@ Binary Search
      use two map. one for storing time & leader pair, one for storing person & votes pair.
      
 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
-      
+      https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/discuss/
+      328841/JavaC%2B%2BPython-O(1)-Extra-Space-Except-Output
+
+
+Divide & conquer
+
+241. Different Ways to Add Parentheses
+     https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/66328/A-recursive-Java-solution-(284-ms)
+
+932. Beautiful Array
+     
