@@ -1,0 +1,23 @@
+DP
+
+403. Frog Jump
+     https://leetcode.com/problems/frog-jump/discuss/193816/
+     Concise-and-fast-DP-solution-using-2D-array-instead-of-HashMap-with-text-and-video-explanation.
+     
+416. Partition Equal Subset Sum
+     knapsack.
+     
+467. Unique Substrings in Wraparound String
+     if we know the max number of unique substrings in p ends with 'a', 'b', ..., 'z', then the summary of them is the answer.
+
+474. Ones and Zeroes
+     0-1 knapsack.
+     
+486. Predict the Winner
+     https://leetcode.com/problems/predict-the-winner/discuss/96828/
+     JAVA-9-lines-DP-solution-easy-to-understand-with-improvement-to-O(N)-space-complexity.
+     
+Greedy
+
+134. Gas Station
+     
