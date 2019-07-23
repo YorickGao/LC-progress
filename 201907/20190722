@@ -4,4 +4,29 @@ Dynamic Programming
      https://www.cnblogs.com/grandyang/p/11094525.html     
 
 376. Wiggle Subsequence
+     DP:
+     1) O(n): use two arrays up[] and down[].
+     2) O(n^2): easy.
+
+377. Combination Sum IV
+     DP.
      
+413. Arithmetic Slices
+     
+1029. Two City Scheduling
+
+    
+Backtracking
+
+784. Letter Case Permutation
+     easy pass.
+   
+Heap
+
+1046. Last Stone Weight
+      easy pass.
+      
+Greedy
+
+455. Assign Cookies
+     sort.
