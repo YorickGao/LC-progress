@@ -21,3 +21,13 @@ Greedy
 
 134. Gas Station
      
+406. Queue Reconstruction by Height
+     List.add() function shifts the element currently at that position (if any) and any subsequent elements to the right 
+
+435. Non-overlapping Intervals
+     sort them with end points ascending order.
+     
+860. Lemonade Change
+     
+944. Delete Columns to Make Sorted
+          
