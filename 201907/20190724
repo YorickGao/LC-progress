@@ -17,3 +17,9 @@ DP
      we just need to paste sequence j (i/j - 1) times, hence additional (i/j) times since we need to copy it first as well.
      we don't need checking any smaller length sequences 
 
+673. Number of Longest Increasing Subsequence
+     two arrays length[] and count[], saving length of longest ending in nums[i], and number of longest ending in nums[i]
+     respectively.
+     
+688. Knight Probability in Chessboard
+     
