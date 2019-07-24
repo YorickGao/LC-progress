@@ -1,4 +1,19 @@
 DP
 
 516. Longest Palindromic Subsequence
+     dp[i][j] = dp[i+1][j-1] + 2 if s.charAt(i) == s.charAt(j)
+     otherwise, dp[i][j] = Math.max(dp[i+1][j], dp[i][j-1])
+     Initialization: dp[i][i] = 1
+
+523. Continuous Subarray Sum
+     https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space
      
+646. Maximum Length of Pair Chain
+     DP easy pass.
+     
+650. 2 Keys Keyboard
+     if sequence of length 'j' can be pasted multiple times to get length 'i' sequence
+     if (i % j == 0)
+     we just need to paste sequence j (i/j - 1) times, hence additional (i/j) times since we need to copy it first as well.
+     we don't need checking any smaller length sequences 
+
