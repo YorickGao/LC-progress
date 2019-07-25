@@ -1,0 +1,16 @@
+DP
+
+698. Partition to K Equal Sum Subsets
+     dfs + backtracking
+     Assume sum is the sum of nums[] . The dfs process is to find a subset of nums[] which sum equals to sum/k. 
+     Each time when we get a cur_sum = sum/k, we will start from position 0 in nums[] to look up the elements that are not 
+     used yet and find another cur_sum = sum/k.
+
+712. Minimum ASCII Delete Sum for Two Strings
+     DP. memorize acsII of characters that we want to delete.
+     
+740. Delete and Earn
+     same as House Robber
+     
+764. Largest Plus Sign
+     https://leetcode.com/problems/largest-plus-sign/discuss/113314/JavaC%2B%2BPython-O(N2)-solution-using-only-one-grid-matrix
