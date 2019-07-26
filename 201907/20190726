@@ -1,0 +1,11 @@
+DP
+
+787. Cheapest Flights Within K Stops
+     distance[x][k] means: city x's minimal distance from city src, with the restriction of maximal k stops in the route
+    
+801. Minimum Swaps To Make Sequences Increasing
+     https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/119879/
+     C%2B%2BJavaPython-Easy-Understood-DP-Solution
+     
+808. Soup Servings
+     
