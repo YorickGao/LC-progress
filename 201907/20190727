@@ -1,0 +1,13 @@
+DP
+
+877. Stone Game
+     exactly same as 486. Predict the Winner
+
+931. Minimum Falling Path Sum
+     easy pass. Min of A[i - 1], A[i] and A[i + 1].
+     
+935. Knight Dialer
+     same as No.688.
+     
+983. Minimum Cost For Tickets
+     https://leetcode.com/problems/minimum-cost-for-tickets/discuss/226670/Java-DP-Solution-with-explanation-O(n)
