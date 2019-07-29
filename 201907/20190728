@@ -3,8 +3,7 @@ Bit Manipulation
 898. Bitwise ORs of Subarrays
      https://www.cnblogs.com/grandyang/p/10982534.html
 
-
-DP
+Dynamic Programming
 
 1027. Longest Arithmetic Sequence
       HashMap & DP
@@ -13,3 +12,29 @@ DP
       dp[i][j] means the minimum score to triangulate A[i] ~ A[j], while there is edge connect A[i] and A[j].
       We enumerate all points A[k] with i < k < j to form a triangle.
       The score of this triangulation is min (dp[i][j], dp[i][k] + dp[k][j] + A[i] * A[j] * A[k]).
+
+1105. Filling Bookcase Shelves
+      https://leetcode.com/problems/filling-bookcase-shelves/discuss/323368/ChineseC%2B%2B-1105.-DP
+
+1130. Minimum Cost Tree From Leaf Values
+      Has same idea as 1039.
+      
+
+Backtracking
+
+526. Beautiful Arrangement
+     back track from N to 2 can save a lot of time.
+     
+1079. Letter Tile Possibilities
+      use a count array storing number of each char.
+      
+Queue
+
+933. Number of Recent Calls
+     easy pass.
+     
+Others
+
+453. Minimum Moves to Equal Array Elements
+
+482. License Key Formatting
