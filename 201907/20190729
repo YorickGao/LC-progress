@@ -24,3 +24,12 @@ DFS
 
 802. Find Eventual Safe States
      color the visited node.
+     0:have not been visited
+     1:safe
+     2:unsafe
+     
+841. Keys and Rooms
+     stack & DFS
+     
+1020. Number of Enclaves
+      easy pass.
