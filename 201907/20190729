@@ -11,9 +11,16 @@ Stack
 Tree
 
 988. Smallest String Starting From Leaf
-     
+     DFS
 
 1110. Delete Nodes And Return Forest
-      
+      https://leetcode.com/problems/delete-nodes-and-return-forest/discuss/328853/JavaPython-Recursion-Solution
 
 1123. Lowest Common Ancestor of Deepest Leaves
+      use deepest represent the deepest depth. use a global variable lca to represent the result. If node == null, return
+      depth. If node.left's depth equals node.right's depth, lca == node.
+
+DFS
+
+802. Find Eventual Safe States
+     
