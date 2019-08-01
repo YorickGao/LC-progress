@@ -1,0 +1,20 @@
+Tree
+
+1104. Path In Zigzag Labelled Binary Tree
+      Calculate current depth of the label. Calculate offset (for each depth, values lie from 2^d -> 2^(d+1) -1.
+      Find the real parent based on offset. Repeat until we reach 1
+      
+HashTable
+
+138. Copy List with Random Pointer
+     ceate a hashmap to store <old, new> node pairs to save time.
+
+204. Count Primes
+     if an element e is prime, e * 2, e * 3, e * 4... aren't prime.
+     
+274. H-Index
+     sort the array or count every citation.
+     
+299. Bulls and Cows
+     在处理不是bulls的位置时, 我们看如果secret当前位置数字的映射值小于0, 则表示其在guess中出现过, cows自增1, 然后映射值加1,
+     如果guess当前位置的数字的映射值大于0, 则表示其在secret中出现过, cows自增1, 然后映射值减1.
