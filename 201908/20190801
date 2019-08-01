@@ -4,4 +4,20 @@ BFS
      https://zhuanlan.zhihu.com/p/45339906
      
 934. Shortest Bridge
+     easy pass. BFS. 
+
+SQL
+
+175. Combine Two Tables
+     A left join B + on A.xx = B.xx
      
+176. Second Highest Salary
+     select max(salary)
+     
+181. Employees Earning More Than Their Managers
+
+182. Duplicate Emails
+     count(Email) counts the number of rows with the same Email name
+
+183. Customers Who Never Order
+
