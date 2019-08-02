@@ -24,4 +24,12 @@ SQL
 
 Other
 
-558. Quad Tree Intersection
+598. Range Addition II
+     
+633. Sum of Square Numbers
+     two pointers
+     
+Bit Manipulation
+
+693. Binary Number with Alternating Bits
+     Integer.toBinaryString(n) convert an integer to binary string of that number.
