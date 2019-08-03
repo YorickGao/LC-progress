@@ -1,6 +1,7 @@
 BFS
 
 329. Longest Increasing Path in a Matrix
-
+     DP + DFS: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/78463/Java-DFS-%2B-DP-Solution
 
 472. Concatenated Words
+     DP, same idea as No.139 Word Break
