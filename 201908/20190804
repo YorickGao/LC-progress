@@ -1,0 +1,23 @@
+DFS
+
+947. Most Stones Removed with Same Row or Column
+     DFS to count number of island. HashSet to store visited nodes.
+
+959. Regions Cut By Slashes
+     upscale the input grid to [n * 3][n * 3] grid and draw "lines" there. Then, we can paint empty regions using DFS and count 
+     them. Note that [n * 2][n * 2] grid does not work as "lines" are too thick to identify empty areas correctly.
+     
+1145. Binary Tree Coloring Game
+      The first player colors a node, there are at most 3 nodes connected to this node: its left, its right and its parent.
+      The second player just color any one of them to maximize the node he can color.      
+      
+Trie
+
+208. Implement Trie (Prefix Tree)
+     simple implementation.
+     
+421. Maximum XOR of Two Numbers in an Array
+     https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/130427/()-92
+     
+677. Map Sum Pairs
+     
