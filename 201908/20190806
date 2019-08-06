@@ -1,0 +1,13 @@
+Medium
+
+386. Lexicographical Numbers
+     DFS
+     
+390. Elimination Game
+     explanation: 
+     https://leetcode.com/problems/elimination-game/discuss/87119/JAVA%3A-Easiest-solution-O(logN)-with-explanation
+     
+395. Longest Substring with At Least K Repeating Characters
+     two pointer template.
+     
+396. Rotate Function
