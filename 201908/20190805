@@ -9,6 +9,15 @@ Middle
      TreeSet and a window of size k.
 
 307. Range Sum Query - Mutable
+     https://leetcode.com/problems/range-sum-query-mutable/discuss/75753/Java-using-Binary-Indexed-Tree-with-clear-explanation
      
 324. Wiggle Sort II
+     https://leetcode.com/problems/wiggle-sort-ii/discuss/77682/Step-by-step-explanation-of-index-mapping-in-Java     
+
+334. Increasing Triplet Subsequence
+     
+382. Linked List Random Node
+     Reservoir Sampling
+     
+384. Shuffle an Array
      
