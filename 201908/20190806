@@ -11,3 +11,23 @@ Medium
      two pointer template.
      
 396. Rotate Function
+     https://leetcode.com/problems/rotate-function/discuss/87842/Java-Solution-O(n)-with-non-mathametical-explaination
+     
+397. Integer Replacement
+     https://leetcode.com/problems/integer-replacement/discuss/87920/A-couple-of-Java-solutions-with-explanations
+     
+398. Random Pick Index
+     reservoir sampling
+     
+419. Battleships in a Board
+     Going over all cells, we can count only those that are the "first" cell of the battleship. First cell will be defined
+     as the most top-left cell. We can check for first cells by only counting cells that do not have an 'X' to the left and
+     do not have an 'X' above them.
+     
+Easy
+
+812. Largest Triangle Area
+     Google: 'three pointes triangle area formula'
+
+836. Rectangle Overlap
+     easy pass.
