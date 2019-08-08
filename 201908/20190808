@@ -1,0 +1,14 @@
+Medium
+
+641. Design Circular Deque
+     same as No.622. Design Circular Queue
+
+649. Dota2 Senate
+     greedy
+     
+731. My Calendar II
+     TreeMap storing start points and end points. If num of start points is bigger than 2, return false, because that means
+     there must be three intervals overlaping.
+
+738. Monotone Increasing Digits
+     https://leetcode.com/problems/monotone-increasing-digits/discuss/109788/Simple-and-very-short-Java-solution
