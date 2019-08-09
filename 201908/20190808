@@ -12,3 +12,20 @@ Medium
 
 738. Monotone Increasing Digits
      https://leetcode.com/problems/monotone-increasing-digits/discuss/109788/Simple-and-very-short-Java-solution
+
+777. Swap Adjacent in LR String
+     
+789. Escape The Ghosts
+     https://leetcode.com/problems/escape-the-ghosts/discuss/132095/Java-Clear-Code-with-Detailed-Explanations
+
+790. Domino and Tromino Tiling
+     DP: https://leetcode.com/problems/domino-and-tromino-tiling/discuss/116581/
+     Detail-and-explanation-of-O(n)-solution-why-dpn2*dn-1%2Bdpn-3
+     
+
+Easy
+
+762. Prime Number of Set Bits in Binary Representation
+     bitCount() count 1s in a number.
+          
+868. Binary Gap
