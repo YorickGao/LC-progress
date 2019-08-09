@@ -6,3 +6,21 @@ Medium
 799. Champagne Tower
      DP
      
+807. Max Increase to Keep City Skyline
+     easy pass. 
+     
+820. Short Encoding of Words
+     1. Build a set of words.
+     2. Iterate on all words and remove all suffixes of every word from the set.
+     3. Finally the set will the set of all encoding words.
+     4. Iterate on the set and return sum(word's length + 1 for every word in the set)
+
+822. Card Flipping Game
+     Hash set
+
+823. Binary Trees With Factors
+     DP solution:
+     https://leetcode.com/problems/binary-trees-with-factors/discuss/125794/C%2B%2BJavaPython-DP-solution
+     
+846. Hand of Straights
+     
