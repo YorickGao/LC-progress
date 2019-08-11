@@ -3,6 +3,8 @@ Medium
 885. Spiral Matrix III
      res.toArray(new int[R * C][2]) convert list to 2D array.
 
+910. Smallest Range II
+     
 
 Easy
 
