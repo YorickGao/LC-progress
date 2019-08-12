@@ -34,4 +34,6 @@ Easy
      
 
 997. Find the Town Judge
-     Directed graph
+     Directed graph. The point with in-degree - out-degree = N - 1 become the judge.
+
+
