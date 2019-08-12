@@ -16,7 +16,22 @@ Medium
      Union find.
       
 991. Broken Calculator
-     
+     If Y is even, Y = Y / 2
+     If Y is odd, Y = (Y + 1) / 2
+     We reduce Y with least possible operations, until it's smaller than X.
 
 Easy
 
+892. Surface Area of 3D Shapes
+     Minus hidden area.
+
+908. Smallest Range I
+
+942. DI String Match
+     two pointers
+
+949. Largest Time for Given Digits
+     
+
+997. Find the Town Judge
+     Directed graph
