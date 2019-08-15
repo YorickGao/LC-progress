@@ -1,0 +1,29 @@
+Medium
+
+1138. Alphabet Board Path
+      move left, right should before down.
+
+1139. Largest 1-Bordered Square
+      https://leetcode.com/problems/largest-1-bordered-square/discuss/345265/
+      c%2B%2B-beats-100-(both-time-and-memory)-concise-with-algorithm-and-image
+
+1140. Stone Game II
+      https://leetcode.com/problems/stone-game-ii/discuss/345247/C%2B%2B-DP-(Tabulation)
+
+1143. Longest Common Subsequence
+      DP
+      
+1144. Decrease Elements To Make Array Zigzag
+      two for loops
+
+Easy
+
+1089. Duplicate Zeros
+
+1103. Distribute Candies to People
+
+1128. Number of Equivalent Domino Pairs
+
+1137. N-th Tribonacci Number
+
+1154. Day of the Year
