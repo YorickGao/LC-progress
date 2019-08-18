@@ -18,6 +18,8 @@ Medium
      Greedy
 
 462. Minimum Moves to Equal Array Elements II
-
+     1. QuickSelect to get median. O(n).
+     2. QuickSort and two pointers to get the distance.
+     
 470. Implement Rand10() Using Rand7()
-
+     https://leetcode.com/problems/implement-rand10-using-rand7/discuss/150301/Three-line-Java-solution-the-idea-can-be-generalized-to-%22Implement-RandM()-Using-RandN()%22
