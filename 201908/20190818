@@ -1,0 +1,23 @@
+Medium
+
+284. Peeking Iterator
+
+423. Reconstruct Original Digits from English
+     for zero, it's the only word has letter 'z',
+     for two, it's the only word has letter 'w',
+     ......
+     so we only need to count the unique letter of each word, Coz the input is always valid.
+
+427. Construct Quad Tree
+     Recursive
+
+433. Minimum Genetic Mutation
+     BFS: https://leetcode.com/problems/minimum-genetic-mutation/discuss/91484/Java-Solution-using-BFS
+
+452. Minimum Number of Arrows to Burst Balloons
+     Greedy
+
+462. Minimum Moves to Equal Array Elements II
+
+470. Implement Rand10() Using Rand7()
+
