@@ -16,7 +16,7 @@ Medium
      Use accumulated freq array to get idx. Then Binary search to return res
 
 146. LRU Cache
-
+     https://leetcode.com/problems/lru-cache/discuss/45922/JAVA-Easy-Version-To-Understand!!!!
 
 
 CSV file from 2 - 11
