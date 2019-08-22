@@ -7,6 +7,16 @@ Hard
 76. Minimum Window Substring
     https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
 
+273. Integer to English Words
+     https://leetcode.com/problems/integer-to-english-words/discuss/70625/My-clean-Java-solution-very-easy-to-understand
+
+Medium
+
+528. Random Pick with Weight
+     Use accumulated freq array to get idx. Then Binary search to return res
+
+146. LRU Cache
 
 
-CSV file from 2 - 
+
+CSV file from 2 - 11
