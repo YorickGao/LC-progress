@@ -3,6 +3,9 @@ Medium
 73. Set Matrix Zeroes
     https://leetcode.com/problems/set-matrix-zeroes/discuss/26014/Any-shorter-O(1)-space-solution
 
+378. Kth Smallest Element in a Sorted Matrix
+     https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/85177/Java-1ms-nlog(max-min)-solution
+
 662. Maximum Width of Binary Tree
      https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/106654/JavaC%2B%2B-Very-simple-dfs-solution
      
